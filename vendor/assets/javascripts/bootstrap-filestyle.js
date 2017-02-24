@@ -314,7 +314,7 @@
 	$.fn.filestyle.defaults = {
 		'buttonText' : 'Choose file',
 		'iconName' : 'glyphicon glyphicon-folder-open',
-		'buttonName' : 'btn-default',
+		'buttonName' : 'btn-default btn-outline-primary',
 		'size' : 'nr',
 		'input' : true,
 		'badge' : true,
